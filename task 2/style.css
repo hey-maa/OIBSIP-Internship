@@ -1,0 +1,18 @@
+body{
+    font-family: 'Pacifico', cursive;
+    background-color: antiquewhite;
+  
+}
+h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 35px;
+}
+.heading{
+ color: blueviolet;
+ text-align: center;
+}
+p{
+    font-size: 20px;
+}
